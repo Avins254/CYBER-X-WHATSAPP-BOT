@@ -53,7 +53,7 @@ If you have any feedback, please reach out to us at darkalphaxteamofficial@gmail
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`SESSION_ID`
+`SESSION_ID_link with WhatsApp code`
 
 `DATABASE_URL`
 
